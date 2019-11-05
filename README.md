@@ -4,20 +4,17 @@ Hi there!  I dunno if you're active here, but I have have a game/mode in mind th
 
 TL;DR - Articulating stuff takes effort & time and I wanted to see if:
 
-A. You're human
-B. Are open to communication
-C. Would even appreciate me blabbing my thoughts into a form you could parse.
+1. You're human
+1. Are open to communication
+1. Would even appreciate me blabbing my thoughts into a form you could parse.
 
 # Brief Game Format Outline ("Chess"):
 
 The game is best described as a 1v1 FPS/RTS Hybrid that revolves around balancing macro-ing and controlling (FPS-style) dota-spawn-style NPCs.
 
 a. The map is large-r and intended to mirror a Chess board.
-
     b1. Each player's "side/town" consists of the two rows most proximal to them.
-
     b2. The remaining 4 rows in the "middle" are neutral and sparse (few, if any, buildings)
-
     b1. These player-owned "rows" have randomly alotted destructible buildings that spawn MOBs/NPCs in a DOTA-esque fashion.
         - The front-most rows begin functional - meaning, they spawn units from the opening of the game.
             - More advanced squares are enabled/unlocked (details pending. Im still 90% Ill never speak with a human regarding this game idea #budget)
