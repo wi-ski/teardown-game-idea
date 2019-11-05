@@ -101,5 +101,5 @@ Like in DOTA, MOBs/NPCs default to agro-ing towards the opposing player's mirror
 The game is won when the one of the players' "Kings" are killed.  "The King" is a unit that:
 1. Represents "The Player" - but is a MOB just-the-same.
 1. It has a normal amount of health. But a high-damage ranged attack "Deagle" that deals 80% damage to a Pawn.
-1. Unlike the other pieces, "The King" spawn behind the final rows.
+1. Unlike the other pieces, "The King" spawns behind the 'ultimate' rows.
 
