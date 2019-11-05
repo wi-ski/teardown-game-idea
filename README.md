@@ -53,7 +53,7 @@ c. Like in DOTA, MOBS/NPCs default to agro-ing towards the opposing player's mir
         |::|  ###\:/:\#   (:)   ###(:)###   (:)   ###(:)###   \:/:\ ###|::|##
               ####"####         #########         #########    "    #########
   __ #########    _    #########    _    #########    _    #########    _      Notes:
-   / ###(:)###   (:)   ###(:)###   (:)   ###(:)###   (:)   ###(:)###   (:)      1. As outlined above, these "player owned" squares contain destructible
+   / ###(:)###   (:)   ###(:)###   (:)   ###(:)###   (:)   ###(:)###   (:)      1. As outlined above, these "player owned" squares contain destructible buildings
   /  ###|:|###   |:|   ###|:|###   |:|   ###|:|###   |:|   ###|:|###   |:|      2. Mobs spawn from these squares and march to oppsing team.
      ###|:|###   |:|   ###|:|###   |:|   ###|:|###   |:|   ###|:|###   |:|      
      #########         #########         #########         #########              Units spawns!
