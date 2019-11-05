@@ -13,8 +13,11 @@ C. Would even appreciate me blabbing my thoughts into a form you could parse.
 The game is best described as a 1v1 FPS/RTS Hybrid that revolves around balancing macro-ing and controlling (FPS-style) dota-spawn-style NPCs.
 
 a. The map is large-r and intended to mirror a Chess board.
+
     b1. Each player's "side/town" consists of the two rows most proximal to them.
+
     b2. The remaining 4 rows in the "middle" are neutral and sparse (few, if any, buildings)
+
     b1. These player-owned "rows" have randomly alotted destructible buildings that spawn MOBs/NPCs in a DOTA-esque fashion.
         - The front-most rows begin functional - meaning, they spawn units from the opening of the game.
             - More advanced squares are enabled/unlocked (details pending. Im still 90% Ill never speak with a human regarding this game idea #budget)
@@ -24,17 +27,22 @@ a. The map is large-r and intended to mirror a Chess board.
         - The back-most "squares" spawn more advance units.
             a. "The Knight"
                 - Ranged Attack only: Simple gun with a slow moving pellet. Layers well with pawns in front.
+
             b. "The Bishop"
                 - Melee attack only, but high damage. Has added benefit and auto-deleting building materials like walls.
+
             c. "The Rook"
                 - Large profile (literally bigger) ranged unit with splash damage.
                 - Would be awesome if style was larger unit that had a boulder-throwing animation.
+
             d. Eventually "The Queen"
                 - Playing around with the mechanics
 
 b. Units spawn on an interval, their MOBA-style objectives can be redirected by "The King" (the controlling player)
     - The intention is to force a game style where the user is forced to balance between:
+
         1. Macro-ing in the rts-stlye "god view" - similar to the view in Teardown's demos where you can review your escape path - where you command spawned MOBs/NPCs and have a generous field of view.
+
         2. Mico-ing individual MOBS that a controlling player can assume control of - the assumption being the human's attention makes that unit more effective.
 
 c. Like in DOTA, MOBS/NPCs default to agro-ing towards the opposing player's mirror-ed squares with the inention of destroying buildings they agro while en-route.
