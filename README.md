@@ -1,4 +1,4 @@
-# Teardown Game Idea: "Chess"
+# Teardown Game Idea: "Chess Town"
 
 Hi there!  I don't know if you're active with communication, but I have have a game/mode in mind that would leverage the mechanics that youve been demonstrating in your engine - for Teardown - and I cant stop thinking about it. This is an attempt to see if:
 
@@ -6,9 +6,9 @@ Hi there!  I don't know if you're active with communication, but I have have a g
 1. Are open to communication.
 1. Would even appreciate me blabbing my thoughts into a form you could parse.
 
-# Brief Game Format Outline ("Chess"):
+# Brief Game Format Outline
 
-The game is best described as a 1v1 FPS/RTS Hybrid that revolves around balancing "macro-ing" groups of dota-spawn-style MOBs/NPCs "micro-ing" individual MOBs in a First-person-shooter mode.
+The game is best described as a 1v1 FPS/RTS Hybrid that revolves around balancing "macro-ing" groups of dota-spawn-style MOBs/NPCs and "micro-ing" individual MOBs in a First-person-shooter mode.
 
 Two opposing sides of a chessboard-esque map are pitted against eachother with the goal of killing the other team's King.
 
