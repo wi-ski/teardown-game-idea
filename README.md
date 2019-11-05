@@ -1,6 +1,6 @@
-#Teardown Game Idea: "Chess"
+# Teardown Game Idea: "Chess"
 
-Hi there!  I dunno if you're active here, but I totally have a game/mode in mind leveraging the mechanics it looks like you'll have in your engine. (For Teardown)
+Hi there!  I dunno if you're active here, but I have have a game/mode in mind that would leverage the mechanics that youve been accentuating in your engine. (For Teardown)
 
 TL;DR - Articulating stuff takes effort & time and I wanted to see if:
 
@@ -8,11 +8,11 @@ A. You're human
 B. Are open to communication
 C. Would even appreciate me blabbing my thoughts into a form you could parse.
 
-Quick Outline of the game format ("Chess"):
+# Brief Game Format Outline ("Chess"):
 
-a. 1v1 FPS/RTS Hybrid that revolves around balancing macro-ing and controlling (FPS-style) dota-spawn-style NPCs.
+The game is best described as a 1v1 FPS/RTS Hybrid that revolves around balancing macro-ing and controlling (FPS-style) dota-spawn-style NPCs.
 
-b. The map is large-r and intended to mirror a Chess board.
+a. The map is large-r and intended to mirror a Chess board.
     b1. Each player's "side/town" consists of the two rows most proximal to them.
     b2. The remaining 4 rows in the "middle" are neutral and sparse (few, if any, buildings)
     b1. These player-owned "rows" have randomly alotted destructible buildings that spawn MOBs/NPCs in a DOTA-esque fashion.
@@ -32,12 +32,12 @@ b. The map is large-r and intended to mirror a Chess board.
             d. Eventually "The Queen"
                 - Playing around with the mechanics
 
-c. Units spawn on an interval, their MOBA-style objectives can be redirected by "The King" (the controlling player)
+b. Units spawn on an interval, their MOBA-style objectives can be redirected by "The King" (the controlling player)
     - The intention is to force a game style where the user is forced to balance between:
         1. Macro-ing in the rts-stlye "god view" - similar to the view in Teardown's demos where you can review your escape path - where you command spawned MOBs/NPCs and have a generous field of view.
         2. Mico-ing individual MOBS that a controlling player can assume control of - the assumption being the human's attention makes that unit more effective.
 
-d. Like in DOTA, MOBS/NPCs default to agro-ing towards the opposing player's mirror-ed squares with the inention of destroying buildings they agro while en-route.
+c. Like in DOTA, MOBS/NPCs default to agro-ing towards the opposing player's mirror-ed squares with the inention of destroying buildings they agro while en-route.
     - If MOBs manage to "demolish" a players building, that building ceases spawning units.
     -  Demolishing a building is destroying >50% the voxels the comprise the building.
 
