@@ -1,4 +1,4 @@
-# Teardown Game Idea: "Chess Town"
+# Teardown Game Idea: "Chess"
 
 Hi there!  I don't know if you're active with communication, but I have have a game/mode in mind that would leverage the mechanics that youve been demonstrating in your engine - for Teardown - and I cant stop thinking about it. This is an attempt to see if:
 
