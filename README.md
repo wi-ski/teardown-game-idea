@@ -44,7 +44,7 @@ Units spawn on an interval, their MOBA-style objectives can be redirected by "Th
 1. Micro-ing individual MOBS that a controlling player can assume control of - the assumption being the human's attention makes that unit more effective.
     - Thinking that mobs are less effective than a human (ie. miss ranged attacks frequently/randomly). "The Player" assuming control of a unit would make it more effective by having the accuracy of said player (FPS-style)
 
-## Units Behavior
+## Unit Behavior
 
 Like in DOTA, MOBs/NPCs default to agro-ing towards the opposing player's mirror-ed squares with the inention of destroying buildings they agro while en-route.
     - If MOBs manage to "demolish" a players building, that building ceases spawning units.
