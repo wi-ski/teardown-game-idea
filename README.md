@@ -1,14 +1,6 @@
 Note: These are very rough thoughts.
 
-# Teardown Game Idea: "Chess"
-
-Hi there!  I don't know if you're active with communication, but I have have a game/mode in mind that would leverage the mechanics that youve been demonstrating in your engine - for Teardown - and I cant stop thinking about it. This is an attempt to see if:
-
-1. You're human.
-1. Are open to communication.
-1. Appreciate any aspect of this idea.
-
-# Brief Game Format Outline
+# "Chess"
 
 The game is best described as a 1v1 FPS/RTS Hybrid that revolves around balancing "macro-ing" groups of dota-spawn-style MOBs/NPCs and "micro-ing" individual MOBs in a First-person-shooter mode.
 
